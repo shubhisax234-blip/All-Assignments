@@ -1,0 +1,1 @@
+These assignments contains basics of html and upto an advanced level . It contains semantic and non-semantic elements,page structure and comments,headings,paragraphs,formatting and special characters,block and inline elements
